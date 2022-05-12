@@ -52,19 +52,9 @@ main.py - main machine learning module
 <li>Open your web browser and go to <b>http://localhost/www</b> and click on the wordpress folders to access the web app</li>
 <li>Wordpress Admin Panel is available at: <b>http://localhost/www/wordpress-5.6.2/wordpress/wp-admin</b></li>
 </ol>
-<br>
-<b> Video of setup and demo is available <a href="https://drive.google.com/file/d/1iP5RqdlREx_YbP-5RZqo7fB1rElQ2igi/view?usp=sharing">here</a></b>
-<br>
 <h2> Admin Credentails </h2><br>
 <b>Username:</b> admin
 <br>
 <b>Email:</b> stockmarketpred@gmail.com
 <br>
 <b>Password:</b> Samplepass@123
-
-<ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
-</ul>
